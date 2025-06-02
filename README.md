@@ -1,6 +1,6 @@
 # project
 
-Important jenkins file, Docker file, no deployment occur but has kubernetes folder:
+Important jenkins file, Docker file, no deployment occur:
 
 
 stage('static code analysis: sonarqube') {
